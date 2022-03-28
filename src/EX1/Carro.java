@@ -87,4 +87,9 @@ public class Carro {
     public void buzinar() {
         System.out.println("Buzina do carro");
     }
+
+    @Override
+    public String toString() {
+        return "Carro";
+    }
 }

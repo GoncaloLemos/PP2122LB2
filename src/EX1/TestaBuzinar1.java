@@ -7,10 +7,13 @@ package EX1;
 public class TestaBuzinar1 {
     public static void main(String[] args) {
         Citadino cit = new Citadino();
+        cit.toString();
         cit.buzinar();
         Familiar fam = new Familiar();
+        fam.toString();
         fam.buzinar();
         Jipe jipe = new Jipe();
+        jipe.toString();
         jipe.buzinar();
     }
 }
