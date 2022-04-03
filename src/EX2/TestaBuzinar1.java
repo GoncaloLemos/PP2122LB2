@@ -1,4 +1,4 @@
-package EX1;
+package EX2;
 
 /**
  * @author Pedro Simões (30007732@students.ual.pt);
